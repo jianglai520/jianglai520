@@ -23,7 +23,7 @@
 
 - [toutiao_heima](https://github.com/jianglai520/toutiao_heima) — FastAPI + Vue 3 移动端资讯应用，带 AI 智能问答 `9★`
 - [my-blog](https://github.com/jianglai520/my-blog) — Next.js 16 + Supabase 全栈博客，就是上面那个站点 `3★`
-- [mini-rag](https://github.com/jianglai520/mini-rag) — 服装领域 RAG 知识库，支持 Web 上传与自动去重 `1★`
+- [mini-rag](https://github.com/jianglai520/mini-rag) — 服装领域 RAG 知识库，支持 Web 上传与自动去重 `3★`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jianglai520/jianglai520/output/github-contribution-grid-snake-dark.svg">
